@@ -5,3 +5,5 @@ Usage: <br />
 Make the binary files using the provided makefile <br />
 Start the server along with a port number as argument | example: server 1234 <br />
 Run the client passing the host IP, port number, and requested file/directory | example: client 127.0.0.1 1234 ~/file <br />
+
+![DEMO] (./doc/demo.gif)
